@@ -61,14 +61,6 @@
 <br><br><br>
 <br><br>
 
-<h2 >Proyectos recientes </h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <p>loremslsllsdlsldsldsldldld</p>
-  </a>
-</p>
-<br>
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
