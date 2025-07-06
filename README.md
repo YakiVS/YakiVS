@@ -45,8 +45,7 @@
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://youtu.be/rISmdhlhOPM](https://www.linkedin.com/posts/yakelin-vargas-sotaya_manual-librer%C3%ADa-numpy-activity-7319119465487478784-7c9-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBHaTkBjgbICrXNtalmzPQtZeKOC4d6MfI" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
   
