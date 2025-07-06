@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 🙋 soy Yakelin ☺️ </h1> 
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@yakivs" /></a>
 <a href="https://www.tiktok.com/" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@yakivs" /></a>
 <a href="https://linkedin.com/in/yakelin-vargas-sotaya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@yakivs"/></a>
@@ -22,7 +22,9 @@
 
 📝 Roles en el ámbito: desarrollo web, docente de róbotica y programación. ☺️
 
-📘 Desarrollo proyectos de investigación. 
+📘 Actualmente estoy desarrollando proyectos de investigación.
+
+🤔 Me interesa el análisis de datos y ciencia de datos.
 
 📫 Contacto: **yakivsotaya.05@gmail.com**
 </p>
@@ -33,7 +35,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,css,html,mysql,sqserver,git,github,docker,postman,vscode,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
