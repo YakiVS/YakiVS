@@ -61,17 +61,13 @@
 <br><br><br>
 <br><br>
 
-<h2> 📝 Recent Projects </h2> 
-<p>
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+<h2 >Proyectos recientes </h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <p>loremslsllsdlsldsldsldldld</p>
+  </a>
 </p>
-
 <br>
 
 <h2>GitHub :octocat:</h2>
