@@ -35,6 +35,9 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
+
+<br>
+  
 <h2 >Algunos Manuales que elaboré 👨🏻‍💻</h2>
 
 <table align="left" >
@@ -58,8 +61,7 @@
 <br><br><br>
 <br><br>
 <p>
-
-## 📝 Recent Projects
+<h2 >📝 Recent Projects</h2> 
 ### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
@@ -75,11 +77,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 </p>
 
-<br><br>
 <br>
-<br><br><br>
-<br><br>
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
