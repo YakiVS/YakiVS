@@ -63,9 +63,6 @@
 <p>
 <h2> 📝 Recent Projects </h2> 
 <p>
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 ### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
