@@ -35,25 +35,12 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,anaconda,aws,azure,gcp,js,css,html,mysql,git,github,docker,postman,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,anaconda,aws,azure,gcp,linux,js,css,html,git,github,vscode,visualstudio" />
   </a>
 </p>
 <br>
 <br>
 
-## 🛠️ Skills
-
-#### Data Analytics 
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
-</td>
-    <td>
-    
-<br>
 
 <!-------------------------->
 <div id="proyectos">
