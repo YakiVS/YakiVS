@@ -41,7 +41,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Algunos Manuales 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
@@ -97,46 +97,9 @@
 <br><br><br>
 <br><br>
 
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-<br>
-
 <p>
 
-## 📝 Recent Projects
+## 📝 Proyectos recientes
 ### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
@@ -154,36 +117,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 <br>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
-</p>
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-
-<h2>Tech Stack</h2>
+<h2>Tecnologías</h2>
 
 <div>
 	<p style="display: inline-block;">
@@ -249,7 +183,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 <!-- Licenses & certifications -->
 </br>
-<h2>Licenses & certifications</h2>
+<h2> Certificaciones </h2>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
 **Machine Learning Specialization** \
