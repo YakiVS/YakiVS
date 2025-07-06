@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,anaconda,aws,azure,gcp,linux,js,css,html,git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,mysql,postgres,anaconda,gcp,linux,js,css,html,git,github,vscode,visualstudio" />
   </a>
 </p>
 <br>
