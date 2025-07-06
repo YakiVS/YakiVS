@@ -24,7 +24,7 @@
 
 📘 Actualmente estoy desarrollando proyectos de investigación.
 
-🤔 Me interesa el análisis de datos y ciencia de datos.
+🤔 Me interesa el análisis de datos y la ciencia de datos.
 
 📫 Contacto: **yakivsotaya.05@gmail.com**
 </p>
@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,css,html,mysql,sqserver,git,github,docker,postman,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,css,html,mysql,sqlserver,git,github,docker,postman,vscode,linux" />
   </a>
 </p>
 <br>
