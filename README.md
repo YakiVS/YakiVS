@@ -13,9 +13,9 @@
 <p align="left">
 🎓 INGENIERA DE SISTEMAS 
 
-🎥 COMPROMETIDA EN CREAR CONTENIDO que transmita conocimientos 📚 a través de LINKEDIN en base a mucho estudio. 😵
+🎥 COMPROMETIDA EN COMPARTIR EL CONOCIMIENTO APRENDIDO 📚 
 
-💻 Unos cuántos años de experiencia en el área de informática. 
+💻 Dos años de experiencia como Ingeniera de Sistemas. 
 
 📝 Roles en el ámbito: desarrollo web, docente de róbotica y programación. ☺️
 
